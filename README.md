@@ -1,3 +1,3 @@
-***Flextime
+# Flextime
 
-**Usage
+### Usage
